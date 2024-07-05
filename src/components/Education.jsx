@@ -30,7 +30,7 @@ function Education() {
             <p>College: R.C. Technical Institute(GTU)<br/>
             Grade:  8.84 CGPA</p><br/><br/>
 
-            <h3 className="text-2xl font-bold mb-2">10th</h3>
+            <h3 className="text-2xl font-bold mb-2">SSC</h3>
             <p>May-2017 To March-2018</p>
             <p>School: Gurukrupa Vidhyalay(GSEB)<br/>
             Grade:  74.16 %</p><br/><br/>

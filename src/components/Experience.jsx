@@ -22,12 +22,12 @@ function Experience() {
                     >
                         <h3 className="text-2xl font-bold mb-2">Full Stack(MERN Stack) Internship At Hyperlink Infosystem</h3>
                         <p>Jan-2024 To July-2024</p>
-                        <p>●Gain knowledge about in depth of HTML, CSS, JAVASCRIPT AND JQUERY. <br />●Gain in depth knowledge of Nodejs and and creating REST APIs for projects.<br />● Gain in depth knowledge of ReactJS and created many projects</p><br /><br />
+                        <p>● Gain knowledge about in depth of HTML, CSS, JAVASCRIPT AND JQUERY. <br />● Gain in depth knowledge of Nodejs and and creating REST APIs for projects.<br />● Gain in depth knowledge of ReactJS and created many projects</p><br /><br />
 
 
                         <h3 className="text-2xl font-bold mb-2">ReactJS Intern At NRCREW</h3>
                         <p>July-2023 To Aug-2023</p>
-                        <p>Learn about concepts of ReactJS like Function components, Props and states, Event handling, hooks and redux.</p><br/><br/>
+                        <p>● Learn about concepts of ReactJS like Function components, Props and states, Event handling, hooks and redux.</p><br/><br/>
 
 
                         <h3 className="text-2xl font-bold mb-2">Java Programming Internship At Tops Technology</h3>
