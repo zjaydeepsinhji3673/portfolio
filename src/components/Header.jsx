@@ -22,7 +22,7 @@ function Header() {
           MERN Stack Developer
         </motion.p>
         <motion.img 
-          src="http://localhost:3000/myPic.jpg" 
+          src="https://jaydeepsinhzala.netlify.app/MyPic.jpg" 
           alt="Your Name" 
           className="mx-auto mt-6 rounded-full w-32 h-32"
           initial={{ opacity: 0, scale: 0.5 }}
