@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareGithub } from "react-icons/fa6";
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'; // Import necessary icons
-
+import { FaUserGraduate } from "react-icons/fa";
 function Contact() {
   return (
     <section id="contact" className="py-16">
@@ -18,6 +18,10 @@ function Contact() {
           Contact
         </motion.h2>
         <div className="max-w-lg mx-auto bg-white p-8 rounded-lg shadow-lg">
+        <div className="mb-4 flex items-center">
+          <div className='mr-2 fw-bold' >< FaUserGraduate/></div>
+            <a href="https://drive.google.com/file/d/1NXrrHNHKnp1ey2ngUq6qBSjM76pJSqc3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">My Resume</a>
+          </div>
           <div className="mb-4 flex items-center">
             <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
             <span>jaydeepsinh36.zala@gmail.com</span>

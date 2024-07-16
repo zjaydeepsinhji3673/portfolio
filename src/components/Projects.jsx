@@ -20,9 +20,21 @@ function Projects() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
           >
-            <h3 className="text-2xl font-bold mb-2">Safe Travel Home to School App</h3>
-            <p>The Safe Travel Home to School Project is an innovative application designed to enhance student security during their daily school commutes. This app provides real-time tracking of school buses and includes features tailored for both drivers and parents. Drivers can update the status of each student during pick-up and drop-off, while parents receive notifications and can track their child's location. Additional features include setting bus late alerts, applying for leave, viewing attendance, changing pickup points, and contacting drivers. This project ensures seamless communication and transparency, fostering a safer and more reliable school transportation experience.</p>
+            <h3 className="text-2xl font-bold mb-2">Library Store</h3>
+            <p>In this project, the admin has the capability to add new books to the inventory, ensuring the collection stays current and diverse. Users can easily sign up and log in to access their accounts, browse through the available books, and place orders. Once an order is placed, the admin plays a crucial role by having the authority to approve or reject the order based on availability or other criteria. Additionally, users have the flexibility to manage their cart data by updating the quantity of products, allowing for a seamless and customizable shopping experience.</p>
           </motion.div>
+
+
+          <motion.div 
+            className="bg-white p-6 rounded-lg shadow-lg" 
+            initial={{ opacity: 0, y: 50 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 1 }}
+          >
+            <h3 className="text-2xl font-bold mb-2">Voting / Polling Site</h3>
+            <p>In this project, users are able to register and log in to the website, where they can create polls on various topics. Other users can actively participate in these polls by submitting their votes. A live timer feature displays the remaining time until the poll concludes, ensuring participants are aware of the voting period. Users who create polls have the additional capability to view live results as they come in, providing real-time feedback on the poll's progress. Furthermore, users retain the ability to manage their polls, including the option to delete them if necessary, ensuring control over their created content.</p>
+          </motion.div>
+
 
           <motion.div 
             className="bg-white p-6 rounded-lg shadow-lg" 
@@ -32,16 +44,6 @@ function Projects() {
           >
             <h3 className="text-2xl font-bold mb-2">Toy Shop E-commerce Website</h3>
             <p>Toy-Shop is a dynamic e-commerce platform where users can easily browse and purchase products while sellers have comprehensive tools to list, update, and remove their items. Built using core Java and advanced Java concepts, Toy-Shop features user-friendly navigation and robust seller management capabilities, ensuring a seamless and efficient online shopping experience.</p>
-          </motion.div>
-
-          <motion.div 
-            className="bg-white p-6 rounded-lg shadow-lg" 
-            initial={{ opacity: 0, y: 50 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1 }}
-          >
-            <h3 className="text-2xl font-bold mb-2">Appointment Booking System for jan seva kendra</h3>
-            <p>The Jan Seva Kendra Appointment Booking System is designed to streamline the process of booking slots for government services. Users can easily select and reserve time slots for their required services, which are then confirmed via email and SMS notifications. This system ensures efficient scheduling and reduces wait times, enhancing the overall user experience.</p>
           </motion.div>
           {/* Add more projects as needed */}
         </div>
