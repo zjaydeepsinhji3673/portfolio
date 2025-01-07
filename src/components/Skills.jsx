@@ -21,8 +21,9 @@ function Skills() {
         >
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">ReactJS</li>
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">NodeJS</li>
-          <li className="m-4 p-4 bg-white rounded-lg shadow-lg">ExressJS</li>
+          <li className="m-4 p-4 bg-white rounded-lg shadow-lg">ExpressJS</li>
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">MySQL</li>
+          <li className="m-4 p-4 bg-white rounded-lg shadow-lg">PostgreSQL</li>
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">MongoDB</li>
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">Postman</li>
           <li className="m-4 p-4 bg-white rounded-lg shadow-lg">Java</li>

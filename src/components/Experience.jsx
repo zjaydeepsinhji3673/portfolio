@@ -20,9 +20,9 @@ function Experience() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 1 }}
                     >
-                        <h3 className="text-2xl font-bold mb-2">Full Stack(MERN Stack) Internship At Hyperlink Infosystem</h3>
-                        <p>Jan-2024 To July-2024</p>
-                        <p>● Gain knowledge about in depth of HTML, CSS, JAVASCRIPT AND JQUERY. <br />● Gain in depth knowledge of Nodejs and and creating REST APIs for projects.<br />● Gain in depth knowledge of ReactJS and created many projects</p><br /><br />
+                        <h3 className="text-2xl font-bold mb-2">Full Stack(MERN Stack) Developer At Hyperlink Infosystem</h3>
+                        <p>Jan-2024 To Present</p>
+                        <p>● Work for different project by the use of nodejs, react js and SQL. <br /> ● Integrating 3rd parties and payment gateways to the projects.<br />● Gain in depth knowledge of Nodejs and and creating REST APIs for projects.<br />● Gain in depth knowledge of ReactJS and created many task projects.</p><br /><br />
 
 
                         <h3 className="text-2xl font-bold mb-2">ReactJS Intern At NRCREW</h3>

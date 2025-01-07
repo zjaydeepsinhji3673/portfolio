@@ -20,7 +20,7 @@ function Contact() {
         <div className="max-w-lg mx-auto bg-white p-8 rounded-lg shadow-lg">
         <div className="mb-4 flex items-center">
           <div className='mr-2 fw-bold' >< FaUserGraduate/></div>
-            <a href="https://drive.google.com/file/d/1NXrrHNHKnp1ey2ngUq6qBSjM76pJSqc3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">My Resume</a>
+            <a href="https://drive.google.com/file/d/1PAU-cYPlgmu-Nboz5qxwLsqnECvfzuXc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">My Resume</a>
           </div>
           <div className="mb-4 flex items-center">
             <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
